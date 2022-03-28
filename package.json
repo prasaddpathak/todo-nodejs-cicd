@@ -1,0 +1,26 @@
+{
+  "name": "assignment-6-pathakprasad",
+  "version": "1.0.0",
+  "description": "Implement Tree Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass/main.scss dist/main.css",
+    "start": "nodemon -e scss -x \"npm run sass\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/assignment-6-pathakprasad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/assignment-6-pathakprasad/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/assignment-6-pathakprasad#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "sass": "^1.49.9"
+  }
+}

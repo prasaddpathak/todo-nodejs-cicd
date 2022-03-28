@@ -1,0 +1,11 @@
+/*  
+    Author:     Prasad A. Pathak
+    NEU ID:     002925486
+    Email:      pathak.pra@northeastern.edu
+    Subject:    INFO6150 - Web Design and UX
+    Purpose:    Main SCSS File which will import all the dependant SCSS files 
+*/
+
+@import '_variables';
+@import 'layout';
+@import 'components';

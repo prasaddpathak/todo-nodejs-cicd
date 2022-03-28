@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "INFO6150 Assignment 6",
+        "description" : "Add Javascript code snippets to the app.js file",
+        "due_date" : "2022-02-28",
+        "time" : "20:00"    
+    },
+    {
+        "title" : "INFO5100 Assignment 3",
+        "description" : "Create use case diagram for Professor-as-a-Service use case'",
+        "due_date" : "2022-03-04",
+        "time" : "23:59"
+    },
+    {
+        "title" : "ENCP600 DB6",
+        "description" : "Curate LinkedIn About Bio",
+        "due_date" : "2022-03-02",
+        "time" : "23:00"
+    }
+]

@@ -1,0 +1,46 @@
+/*  
+    Author:     Prasad A. Pathak
+    NEU ID:     002925486
+    Email:      pathak.pra@northeastern.edu
+    Subject:    INFO6150 - Web Design and UX
+    Purpose:    SCSS File to store all the styles related to components
+*/
+
+.title {
+    text-align: center;
+}
+
+button {
+    align-self: center;
+    width: 80%;
+    margin: 10px;
+    height: 40%;
+    padding: 7px;
+    background-color: $light-blue;
+    color: $dark-blue ;
+    border: 0 none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 40px;
+}
+
+button:hover {
+    background-color: $light-green;
+    color: $medium-green;
+    cursor: pointer;
+}
+
+.todo-item {
+    padding: 15px;
+    border-bottom: 1px solid $off-white;
+
+    span {
+        margin-left: 30px;
+    }
+}
+
+.todo-item:hover {
+    cursor:pointer;
+    background-color: $lime-green;
+    color: $dark-blue;
+}
